@@ -1,0 +1,1 @@
+splatoon = ['Yoon','Hong-si','Neseki']
