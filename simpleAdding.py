@@ -11,4 +11,6 @@
 # print(plus(3,5))
 
 #with using a lambda expression
+print(
 (lambda x,y: x + y)(3,5)
+)
