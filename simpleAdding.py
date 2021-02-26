@@ -4,8 +4,11 @@
 
 #print(x+y)
 
-#with using function
-def plus(x,y):
-    return x + y
+#with using a function
+# def plus(x,y):
+#     return x + y
 
-print(plus(3,5))
+# print(plus(3,5))
+
+#with using a lamba expression
+(lambda x,y: x + y)(3,5)
