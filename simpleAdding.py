@@ -10,5 +10,5 @@
 
 # print(plus(3,5))
 
-#with using a lamba expression
+#with using a lambda expression
 (lambda x,y: x + y)(3,5)
